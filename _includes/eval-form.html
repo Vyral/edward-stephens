@@ -1,6 +1,23 @@
 <form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
+        <!--8-->
+        <label for="name">Name<span class="asterisk">*</span>
+        </label>
+        <input type="text" name="name" required>
+
+        <label for="phone">Phone Number<span class="asterisk">*</span>
+        </label>
+        <input type="tel" name="phone" required>
+        <!--9-->
+        <label for="email">Email<span class="asterisk">*</span>
+        </label>
+        <input type="email" name="_replyto" required>
+        <!--10-->
+        <!--11-->
+        <label for="address">Address
+        </label>
+        <input type="text" name="address">
         <!--1-->
         <label for="type">What type of property are you selling?</label>
         <select name="type">
@@ -19,19 +36,17 @@
             <option value="Rentals">
                 Rentals
             </option>
-            <option value="Manufactured">
-                Manufactured
+            <option value="Commercial/Other">
+                Commercial/Other
             </option>
             <option value="Land/Lots">
                 Land/Lots
             </option>
         </select>
-        <!--2-->
-        <label for="footage">
+        <!-- <label for="footage">
             What is the square footage?
         </label>
         <input type="text" name="footage" />
-        <!--3-->
         <label for="bathrooms">Number of bathrooms</label>
         <select name="bathrooms">
             <option value="-Select-" selected="selected">
@@ -59,7 +74,6 @@
                 7+
             </option>
         </select>
-        <!--4-->
         <label for="bedrooms">Number of bedrooms</label>
         <select name="bedrooms">
             <option value="-Select-" selected="selected">
@@ -88,15 +102,14 @@
             </option>
         </select>
     </fieldset>
-    <fieldset>
+    <fieldset> -->
         <!--5-->
         <label for="comments">
             Any important features or comments?
         </label>
         <textarea name="comments"></textarea>
     </fieldset>
-    <fieldset>
-        <!--5-->
+    <!-- <fieldset>
         <label for="when">
             When are you looking to move?
         </label>
@@ -117,28 +130,11 @@
                 6 months+
             </option>
         </select>
-        <!--7-->
+
         <label for="range">
             What is your desired asking price?
         </label>
-        <input name="range">
-        <!--8-->
-        <label for="name">Name<span class="asterisk">*</span>
-        </label>
-        <input type="text" name="name" required>
-
-        <!--9-->
-        <label for="email">Email<span class="asterisk">*</span>
-        </label>
-        <input type="email" name="_replyto" required>
-        <!--10-->
-        <label for="phone">Number
-        </label>
-        <input type="tel" name="phone">
-        <!--11-->
-        <label for="address">Address
-        </label>
-        <input type="text" name="address">
+        <input name="range"> -->
         <!-- submit! -->
         <input class="submit light-light" type="submit" value="Submit" name="submitSellerForm">
         <span class="asterisk">*</span>required

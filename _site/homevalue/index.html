@@ -17,7 +17,7 @@
   <!-- style-->
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="http://localhost:4000/homevalue/">
-  <link rel="alternate" type="application/rss+xml" title="Kansas City Real Estate Video Blog with Edward Stephens" href="http://localhost:4000/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Real Estate Video Blog with Edward Stephens" href="http://localhost:4000/feed.xml">
   <!-- All that meta crap -->
   <meta name="description" content="Our mission at The Stephens Real Estate Group is to be your best resource for Kansas City real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Stephens Real Estate Group, your professional Kansas City Real Estate Agents.
 	">
@@ -32,7 +32,7 @@
   <meta itemprop="name" content="Home Evaluation">
   <meta property="og:url" content="http://localhost:4000/homevalue/">
   <meta property="og:description" content="Our mission at The Stephens Real Estate Group is to be your best resource for Kansas City real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Stephens Real Estate Group, your professional Kansas City Real Estate Agents.">
-  <meta property="og:site_name" content="Kansas City Real Estate Video Blog with Edward Stephens">
+  <meta property="og:site_name" content="Real Estate Video Blog with Edward Stephens">
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="">
   <meta property="fb:admins" content="">
@@ -67,7 +67,7 @@
         <!-- logo -->
         <a href="/"><img src="/img/logo.png" alt="" class="site-logo" /></a>
         <!-- title -->
-        <a href="/"><h1 class="site-title">Kansas City Real Estate Video Blog</h1></a>
+        <a href="/"><h1 class="site-title">Real Estate Video Blog</h1></a>
 			</div>
 </header>
 
@@ -192,6 +192,23 @@
 					<form method="post" class="home-value cta-forms" action="https://formspree.io/EStephens@ReeceNichols.com" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
+        <!--8-->
+        <label for="name">Name<span class="asterisk">*</span>
+        </label>
+        <input type="text" name="name" required>
+
+        <label for="phone">Phone Number<span class="asterisk">*</span>
+        </label>
+        <input type="tel" name="phone" required>
+        <!--9-->
+        <label for="email">Email<span class="asterisk">*</span>
+        </label>
+        <input type="email" name="_replyto" required>
+        <!--10-->
+        <!--11-->
+        <label for="address">Address
+        </label>
+        <input type="text" name="address">
         <!--1-->
         <label for="type">What type of property are you selling?</label>
         <select name="type">
@@ -210,19 +227,17 @@
             <option value="Rentals">
                 Rentals
             </option>
-            <option value="Manufactured">
-                Manufactured
+            <option value="Commercial/Other">
+                Commercial/Other
             </option>
             <option value="Land/Lots">
                 Land/Lots
             </option>
         </select>
-        <!--2-->
-        <label for="footage">
+        <!-- <label for="footage">
             What is the square footage?
         </label>
         <input type="text" name="footage" />
-        <!--3-->
         <label for="bathrooms">Number of bathrooms</label>
         <select name="bathrooms">
             <option value="-Select-" selected="selected">
@@ -250,7 +265,6 @@
                 7+
             </option>
         </select>
-        <!--4-->
         <label for="bedrooms">Number of bedrooms</label>
         <select name="bedrooms">
             <option value="-Select-" selected="selected">
@@ -279,15 +293,14 @@
             </option>
         </select>
     </fieldset>
-    <fieldset>
+    <fieldset> -->
         <!--5-->
         <label for="comments">
             Any important features or comments?
         </label>
         <textarea name="comments"></textarea>
     </fieldset>
-    <fieldset>
-        <!--5-->
+    <!-- <fieldset>
         <label for="when">
             When are you looking to move?
         </label>
@@ -308,28 +321,11 @@
                 6 months+
             </option>
         </select>
-        <!--7-->
+
         <label for="range">
             What is your desired asking price?
         </label>
-        <input name="range">
-        <!--8-->
-        <label for="name">Name<span class="asterisk">*</span>
-        </label>
-        <input type="text" name="name" required>
-
-        <!--9-->
-        <label for="email">Email<span class="asterisk">*</span>
-        </label>
-        <input type="email" name="_replyto" required>
-        <!--10-->
-        <label for="phone">Number
-        </label>
-        <input type="tel" name="phone">
-        <!--11-->
-        <label for="address">Address
-        </label>
-        <input type="text" name="address">
+        <input name="range"> -->
         <!-- submit! -->
         <input class="submit light-light" type="submit" value="Submit" name="submitSellerForm">
         <span class="asterisk">*</span>required
@@ -427,9 +423,9 @@ function setReturn(){
 		<img src="/img/cta-images/001.jpg" alt="" />
 	</a>
 	</div>
-	<h5>What’s Your Kansas City Home Worth?</h5>
+	<h5>What’s Your Home Worth?</h5>
 	<p>
-		Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you.
+		Are you thinking of selling your home or interested in learning about home prices in your neighborhood? I can help you.
 	</p>
 	<div class="ctacontainer">
 		
@@ -449,9 +445,9 @@ function setReturn(){
 		<img src="/img/cta-images/002.jpg" alt="" />
 	</a>
 	</div>
-	<h5>Looking for a Kansas City Home?</h5>
+	<h5>Looking for a Home?</h5>
 	<p>
-		Search the entire MLS for your Kansas City home.
+		Search the entire MLS for your home.
 	</p>
 	<div class="ctacontainer">
 		
@@ -648,7 +644,7 @@ function setReturn(){
 				
 				15133 Rosewood Street, Leawood, KS 66224<br />
 				
-				913-239-2115<br />
+				816-217-8608<br />
 				
 				<a href="mailto:EStephens@ReeceNichols.com" target="_blank">EStephens@ReeceNichols.com</a><br />
 				<a href="http://EStephens@ReeceNichols.com" target="_blank">EStephens@ReeceNichols.com</a><br />
@@ -687,7 +683,7 @@ function topFunction() {
 			<nav class="navbar-andross-bottom navbar-fixed-bottom visible-xs">
   <div class="container-fluid">
     <ul class="nav navbar-nav">
-			<li><a href="tel:913-239-2115"><img src="/img/phone.png" alt="" /></a></li>
+			<li><a href="tel:816-217-8608"><img src="/img/phone.png" alt="" /></a></li>
       <li><a href="/contact/" id="contact-bottom"><img src="/img/envelope.png" alt="" /></i></a></li>
     </ul>
   </div>
@@ -717,7 +713,7 @@ function topFunction() {
 	    <div class="row">
 	      <div class="col-sm-4">
 					
-	        <a href="tel:1-913-239-2115" itemprop="telephone">913-239-2115</a>
+	        <a href="tel:1-816-217-8608" itemprop="telephone">816-217-8608</a>
 					
 
 	      </div>
