@@ -16,8 +16,8 @@ client:
   license_number:
   about_markdown: |
     Friendship first.  I believe that relationships are everything.  If we work together, my goal is to be your friend, Realtor, and real estate adviser for life.  My clients are treated with the same respect no matter their budget.  I will do everything I can to provide you with a remarkable real estate buying and selling experience. Contact me for the latest information in the real estate market. I will be happy to answer any questions you may have.  Thank you for visiting and I look forward to working with you.
-  brand: The Stephens Real Estate Group
-  brokerage: Reece Nichols Real Estate
+  brand: The Stephens Group
+  brokerage: ReeceNichols Real Estate
   market: Kansas City
   address: 15133 Rosewood Street, Leawood, KS 66224
   phone: 816-217-8608
@@ -72,6 +72,7 @@ socials:
   trulia_url:
   yelp_url:
   podcast_url:
+  snapchat_url: https://www.snapchat.com/add/Edwsrdsellskc
 
 podcast:
   title: 'Real Estate Podcast with Edward Stephens'
