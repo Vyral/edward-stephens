@@ -17,7 +17,7 @@ youtube_code: PlZdvdhqXGE
 
 {% include youtube.html %}
 
-Welcome to our new real estate blog!
+<p style="text-align: center;"><em>Welcome to our new real estate blog!</em></p>
 
 I’d like to welcome you to my new video blog.
 
