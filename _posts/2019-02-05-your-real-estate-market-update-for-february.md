@@ -19,7 +19,7 @@ youtube_code: JYDpc27ZtkE
 
 {% include youtube.html %}
 
-Here’s how our market’s latest numbers affect you as a buyer or seller.
+<p style="text-align: center;"><em>Here’s how our market’s latest numbers affect you as a buyer or seller.</em></p>
 
 Today we’ll be going over the latest numbers from **Johnson County’s real estate market.** Let’s begin by answering everyone’s biggest question: Are we in a buyer’s or seller’s market?
 
