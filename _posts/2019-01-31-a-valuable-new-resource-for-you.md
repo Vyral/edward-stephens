@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Welcome to our new real estate blog!
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Edward+Stephens/2019/YouTube+Trailer.mp4
+  https://s3.amazonaws.com/vyralmarketing/Edward+Stephens/2019/Kansas+City+Real+Estate+_+Edward+Stephens+Group-+new+youtube+trailer.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: PlZdvdhqXGE
+youtube_code: TuQuwND9rtM
 ---
 
 {% include youtube.html %}
