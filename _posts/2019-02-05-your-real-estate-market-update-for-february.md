@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Real Estate Market Update for February
-date: 2019-02-05 19:29:46
+date: 2019-02-05 19:29:00
 tags:
   - Market Update
 excerpt: Here’s how our market’s latest numbers affect you as a buyer or seller.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: JYDpc27ZtkE
+youtube_code: _mQi_zyy7bI
 ---
 
 {% include youtube.html %}
