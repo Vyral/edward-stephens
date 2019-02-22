@@ -17,7 +17,7 @@ youtube_code: bF9Teq2_0qE
 
 {% include youtube.html %}
 
-When buying a home, due diligence is key. Here’s what you need to have.
+<p style="text-align: center;"><em>When buying a home, due diligence is key. Here’s what you need to have.</em></p>
 
 During the due diligence process, there are a few important documents you need in order to ensure your home meets your expectations and requirements. Today we’ll be going over the things you’ll require, and we’ll also showcase a great tip you can use when buying real estate.
 
