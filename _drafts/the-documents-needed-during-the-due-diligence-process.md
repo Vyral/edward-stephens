@@ -35,7 +35,8 @@ Next is the title report. **It’s important to make sure the title you’re wor
 
 The fourth document is the often-overlooked **report of homeowners association covenants and restrictions.** It’s useful to understand how much freedom you’ll have when it comes to personalizing and customizing your house as you see fit.
 
-These are just four of what I consider the eight critical documents to familiarize yourself with before finalizing the purchase of your next home. If you’d like to learn about the others, click here to obtain the four additional make-or-break documents that could end up saving you thousands down the line.
+These are just four of what I consider the eight critical documents to familiarize yourself with before finalizing the purchase of your next home. If you’d like to learn about the others, <a href="https://estephens.clickfunnels.com/buyerdd" target="
+_blank">click here</a> to obtain the four additional make-or-break documents that could end up saving you thousands down the line.
 
 Now, let’s talk about why many home buyers fail to diagnose these problems before deciding to close on the house.
 
