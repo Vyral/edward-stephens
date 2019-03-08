@@ -17,7 +17,7 @@ youtube_code: bF9Teq2_0qE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>When buying a home, due diligence is key. Here’s what you need to have.</em></p>
+*When buying a home, due diligence is key. Here’s what you need to have.*
 
 When purchasing my first home, I was terrified of buying a “lemon,” a clunker of a home that would start falling in on itself after I’d occupied it for only a short time.
 
@@ -35,8 +35,7 @@ Next is the title report. **It’s important to make sure the title you’re wor
 
 The fourth document is the often-overlooked **report of homeowners association covenants and restrictions.** It’s useful to understand how much freedom you’ll have when it comes to personalizing and customizing your house as you see fit.
 
-These are just four of what I consider the eight critical documents to familiarize yourself with before finalizing the purchase of your next home. If you’d like to learn about the others, <a href="https://estephens.clickfunnels.com/buyerdd" target="
-_blank">click here</a> to obtain the four additional make-or-break documents that could end up saving you thousands down the line.
+These are just four of what I consider the eight critical documents to familiarize yourself with before finalizing the purchase of your next home. If you’d like to learn about the others, [click here](https://estephens.clickfunnels.com/buyerdd){: target="_blank"} to obtain the four additional make-or-break documents that could end up saving you thousands down the line.
 
 Now, let’s talk about why many home buyers fail to diagnose these problems before deciding to close on the house.
 
@@ -46,8 +45,8 @@ Second, moving is challenging. The last thing you feel you need is to get furthe
 
 The last reason people fail to do proper due diligence is because they mistakenly believe they have legal recourse in the event of a worst case scenario. That’s not always the case, so make sure you know everything upfront to avoid relying an often unpredictable justice system to fix the situation.
 
-One last tip I want to provide is something most people never think of: talk to the neighbors. It may seem intimidating, but it’s a simple way to get an unfiltered, honest assessment of potential problems with a home. 
+One last tip I want to provide is something most people never think of: talk to the neighbors. It may seem intimidating, but it’s a simple way to get an unfiltered, honest assessment of potential problems with a home.
 
-The period before closing on a home is an incredibly important time for you as a buyer, so make sure you don’t fall victim to being lazy down this home stretch. 
+The period before closing on a home is an incredibly important time for you as a buyer, so make sure you don’t fall victim to being lazy down this home stretch.
 
 If you have any questions or would like further information, feel free to reach out to me. I look forward to hearing from you soon.
