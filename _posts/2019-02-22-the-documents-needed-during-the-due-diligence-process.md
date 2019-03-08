@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Documents Needed During the Due Diligence Process
-date: 2019-02-22 17:40:41
+date: 2019-03-07 17:40:41
 tags:
   - Home Buyer Tips
 excerpt: 'When buying a home, due diligence is key. Here’s what you need to have.'
@@ -17,7 +17,7 @@ youtube_code: bF9Teq2_0qE
 
 {% include youtube.html %}
 
-*When buying a home, due diligence is key. Here’s what you need to have.*
+<p style="text-align: center;"><em>When buying a home, due diligence is key. Here’s what you need to have.*</em></p>
 
 When purchasing my first home, I was terrified of buying a “lemon,” a clunker of a home that would start falling in on itself after I’d occupied it for only a short time.
 
