@@ -19,7 +19,7 @@ youtube_code: ha-5NpEFtBg
 
 {% include youtube.html %}
 
-There are many ways a lease contract option can benefit you as a homebuyer.
+<p style="text-align: center;"><em>There are many ways a lease contract option can benefit you as a homebuyer.</em></p>
 
 Have you ever considered using a lease-option contract to purchase a home?
 
