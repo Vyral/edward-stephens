@@ -31,7 +31,7 @@ To that end, here are six benefits that come with purchasing a home through a le
 
 **1. Selection.** Anyone who’s looking for a home to rent right now knows there’s not a lot of corresponding inventory available in the Kansas City metro—you can find at least three times as many homes for sale as there are for rent on Zillow. With a lease option, you can widen your selection and browse homes that are for sale as well as those that are available for rent.&nbsp;
 
-**2. You don’t have to save for a down payment or closing costs.** With a lease option, all you have to do is sign a lease and have your security deposit and your first month’s rent. This is perfect if you’re still building up your savings account. You can movie into the home you want and buy it later on down the line.&nbsp;
+**2. You don’t have to save for a down payment or closing costs.** With a lease option, all you have to do is sign a lease and have your security deposit and your first month’s rent. This is perfect if you’re still building up your savings account. You can move into the home you want and buy it later on down the line.&nbsp;
 
 {% include pullquote.html %}
 
