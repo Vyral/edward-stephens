@@ -43,6 +43,6 @@ To that end, here are six benefits that come with purchasing a home through a le
 
 **6. They have less restrictive credit requirements.** The credit requirements for a lease option are much less stringent than buying a home outright. If you think you have to wait until next year to buy a home because you have less-than-stellar credit, you can actually go shopping for the home of your dreams tomorrow with a lease option and build your credit until you can purchase the home outright. 
 
-If you think a lease option is something you want to try, click on this link and I’ll provide you with more information about them. 
+If you think a lease option is something you want to try, click on <a href="https://www.homepartners.com/user/signup/?utm_source=real_estate_agent&utm_agent=Edward%20Stephens&utm_agentemail=estephens%40reecenichols.com&utm_agentid=AC890ABC4881848D&utm_brokerage=Reece%20Nichols%20%7C%20KS" target="_blank">this link</a> and I’ll provide you with more information about them. 
 
 If you have any other questions about this topic, don’t hesitate to reach out to me. I’d be happy to help you.
