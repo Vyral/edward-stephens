@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: There are many ways a lease contract option can benefit you as a homebuyer.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Edward+Stephens/2019/Kansas+City+Real+Estate+_+Edward+Stephens+Group-+Lease+Option+Contract.mp4
+  https://s3.amazonaws.com/vyralmarketing/Edward+Stephens/2019/Kansas+City+Real+Estate+_+Edward+Stephens+Group-+lease-option+contract.mp4
 pullquote: >-
   The credit requirements for a lease option are much less stringent than buying
   a home outright.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ha-5NpEFtBg
+youtube_code: zVVf1XXjTJ8
 ---
 
 {% include youtube.html %}
