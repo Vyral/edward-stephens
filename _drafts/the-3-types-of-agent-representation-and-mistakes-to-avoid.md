@@ -18,7 +18,7 @@ youtube_code: cE37Yokpawk
 
 {% include youtube.html %}
 
-It’s best to have some understanding of how agents work; otherwise, you could run into some big problems.
+<p style="text-align: center;"><em>It’s best to have some understanding of how agents work; otherwise, you could run into some big problems.</em></p>
 
 Today we’ll be talking about the ways an agent can represent you in a real estate transaction. There’s one big mistake you need to look out for as well, **because it can cause you to lose all rights to representation.** On top of this, if you don’t understand how representation works, it can severely hurt your transaction. Let’s dive right in.
 
