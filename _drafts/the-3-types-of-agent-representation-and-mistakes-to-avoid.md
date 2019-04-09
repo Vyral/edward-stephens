@@ -7,8 +7,9 @@ tags:
 excerpt: >-
   It’s best to have some understanding of how agents work; otherwise, you could
   run into some big problems.
-enclosure:
-pullquote:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Edward+Stephens/2019/Kansas+City+Real+Estate+_+Edward+Stephens+Group-+types+of+representation.mp4
+pullquote: It’s important to make sure you know what type of agent you’re working with.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -18,12 +19,26 @@ youtube_code: cE37Yokpawk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>It’s best to have some understanding of how agents work; otherwise, you could run into some big problems.</em></p>
+*It’s best to have some understanding of how agents work; otherwise, you could run into some big problems.*
 
-Today we’ll be talking about the ways an agent can represent you in a real estate transaction. There’s one big mistake you need to look out for as well, **because it can cause you to lose all rights to representation.** On top of this, if you don’t understand how representation works, it can severely hurt your transaction. Let’s dive right in.
+Real estate agents can represent you in a few different ways, but this can vary depending on your state. In Kansas and most states, you can have a buyer’s agent, listing agent, and a transaction broker.
 
-**For your convenience, I’ve included timestamps of today’s topic. Feel free to navigate to the section(s) you’re most interested in viewing:**
+**A buyer’s agent helps buyers find and purchase a home for a good price within their timeframe.** You can share your confidential information with them, and they’re there for you every step of the way. They’ll find homes, write offers, and negotiate on your behalf.
 
-00:30 — The three representation rights you have with an agent<br>01:36 — What you need to know about transaction brokers<br>02:06 — Missouri’s fourth type of representation: dual agency<br>02:53 — The impact an agent has on your transaction<br>03:07 — How you can lose your right to choose agent representation<br>04:13 — Make sure you use your agent wherever you go<br>04:26 — How it works when only one party has an agent<br>04:56 — How you can accidentally lose your listing agent<br>05:51 — Conclusion to today’s video
+**A listing agent works for the seller.** They’re responsible for getting their sellers the most for their home, writing counteroffers, negotiating, and marketing.&nbsp;
 
-If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.<br>&nbsp;
+**A transaction broker is a bit different.** They started off as a buyer’s agent for one person and as a listing agent for another. After finding that both their buyer and seller clients would be the perfect match for each other, they become a neutral real estate agent.&nbsp;
+
+Transaction brokers can no longer help you negotiate against the other side or guide you with their experience. This is why it’s incredibly important to find out if your agent is working solely for you. Otherwise, you could easily lose tens of thousands in your transaction. In addition, these agents typically collect the commission for both the buying and selling sides of the sale.
+
+**Missouri has the three aforementioned types of representation, but it also has a fourth type as well: dual agency.** Dual agency is like a transaction broker, but in this situation, the agent is representing the buyer and seller simultaneously. Again, it’s important to make sure you know what type of agent you’re working with.
+
+Whether you’re buying or selling, the agent you choose will have a huge impact on your financial bottom line and overall experience. However, there’s one way you can lose any right you have of making that choice. Here’s how: **If you enter a new-home subdivision and write your name on their sign-in sheet, you may have just lost your right to future representation.&nbsp;**
+
+{% include pullquote.html %}
+
+The agent that greets you when you arrive at the subdivision is a listing agent working for the builder. By signing in, you’re waiving your right to representation. After all, they believe they procured you as a buyer through their own marketing, and as such, they shouldn’t have to pay another agent in the transaction. Be very careful, and always make sure you’re enlisting the help of your agent.
+
+Some people choose to buy and sell without the help of an agent, but what happens when one side has representation and the other doesn’t? If you have a listing agent, savvy buyers can sometimes go directly to your agent and make things work in their own favor. They’ll tell the agent to reduce the commission since they, as the buyer, aren’t being represented—sounds fair, right? Inexperienced agents can easily fall for this, and they may not even disclose it with you. **Suddenly, your listing agent is not working for you anymore; they’re working for themselves and the buyer.**
+
+You want the best agent in your corner, and if you’re looking to buy or sell, I’d be more than happy to give you the expertise you need. If you have any questions or would like more information in the meantime, feel free to reach out to me. I look forward to hearing from you soon.
