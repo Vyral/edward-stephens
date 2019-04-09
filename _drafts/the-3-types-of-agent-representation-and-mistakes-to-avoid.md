@@ -19,7 +19,7 @@ youtube_code: cE37Yokpawk
 
 {% include youtube.html %}
 
-*It’s best to have some understanding of how agents work; otherwise, you could run into some big problems.*
+<p style="text-align: center;"><em>It’s best to have some understanding of how agents work; otherwise, you could run into some big problems.</em></p>
 
 Real estate agents can represent you in a few different ways, but this can vary depending on your state. In Kansas and most states, you can have a buyer’s agent, listing agent, and a transaction broker.
 
